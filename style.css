@@ -119,7 +119,7 @@
     width: 100%;
     position: absolute;
     top: -1000px;
-    opacity: 0;
+    opacity: 1;
     transition: all 0.5s ease;
     height: 50vh;
     z-index: -1;
